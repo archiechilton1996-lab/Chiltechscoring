@@ -1,7 +1,7 @@
 # CHILTECH v12.0
 **Industrial Station Controller & Scoring Interface**
 
-CHILTECH v12.0 is a Java-based terminal interface designed for the London Hangout. It mimics 1990s industrial hardware consoles with a focus on tactile 3D aesthetics and Chicago-style typography.
+CHILTECH v12.0 is a Java-based terminal interface designed for the OSC London Hangout 2026. It mimics 1990s industrial hardware consoles with a focus on tactile 3D aesthetics and Chicago-style typography.
 
 ## Features
 - **Fullscreen Kiosk Mode:** Built for dedicated hardware displays.
