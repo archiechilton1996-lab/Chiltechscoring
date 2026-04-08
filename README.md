@@ -1,15 +1,18 @@
-# Chiltechscoring
-Chiltech Bowling System - an open source bowling scoring system
+# CHILTECH v12.0
+**Industrial Station Controller & Scoring Interface**
 
-# What's Chiltech?
-Chiltech is an open source bowling scoring system
-inspired by the MacOS Platinum style of the
-Mendes Bowling system.
+CHILTECH v12.0 is a Java-based terminal interface designed for the London Hangout. It mimics 1990s industrial hardware consoles with a focus on tactile 3D aesthetics and Chicago-style typography.
 
-# What programming language did you use?
-I use Java with the IntellIJ IDE.
+## Features
+- **Fullscreen Kiosk Mode:** Built for dedicated hardware displays.
+- **Warm-Up Engine:** Integrated 10-minute countdown with state-managed transitions.
+- **Industrial UI:** Custom beveled tray system and high-contrast readouts.
+- **Keyboard Overrides:** Support for system-level exit commands (Alt+F4).
 
-# Why choose Chiltech?
-Chiltech has a Human-made guarantee,
-but the code is AI-Generated as I have
-no experience with coding whetsoever.
+## Getting Started
+1. Ensure you have Java installed.
+2. Compile `Main.java`.
+3. Run the application to enter the Chiltech environment.
+
+---
+*Part of the 3 Year Plan. Jupster approved.*
